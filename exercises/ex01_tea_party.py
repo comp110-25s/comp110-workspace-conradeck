@@ -3,7 +3,8 @@
 __author__: str = "730830842"
 
 
-def main_planner(guests: int):
+def main_planner(guests: int) -> None:
+    """Prints each function in code given number of guests"""
     print("A Cozy Tea Party for " + str(guests) + " People!")
     print("Tea Bags: " + str(tea_bags(people=guests)))
     print("Treats: " + str(treats(people=guests)))
