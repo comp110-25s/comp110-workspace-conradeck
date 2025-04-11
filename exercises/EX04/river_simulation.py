@@ -1,4 +1,4 @@
-"""River Simulation: River tests"""
+"""River Simulation: River tests."""
 
 __author__ = "730830842"
 
