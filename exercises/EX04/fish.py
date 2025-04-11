@@ -4,6 +4,7 @@ __author__ = "730830842"
 
 
 class Fish:
+    """Fish in the river."""
 
     def __init__(self):
         """Initialize fish with age 0."""
